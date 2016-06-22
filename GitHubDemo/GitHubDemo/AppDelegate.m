@@ -11,6 +11,7 @@
 @interface AppDelegate () {
 
     int _age;
+    NSString *_name;
 }
 
 @end
